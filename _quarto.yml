@@ -15,6 +15,10 @@ website:
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme:
+       light: theme_light.scss
+       dark: theme_dark.scss
+    mainfont: Open Sans
     toc: true
+    link-external-newwindow: true
+    link-external-icon: false
