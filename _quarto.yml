@@ -4,6 +4,9 @@ project:
   render:
     - "*.qmd"
 
+execute:
+  freeze: auto
+
 website:
   title: "CAGED Website"
   navbar:
@@ -12,6 +15,9 @@ website:
         href: index.qmd
       - text: "About"
         href: about.qmd
+    right:
+      - icon: github
+        href: https://github.com/lter/lterwg-caged
 
 format:
   html:
