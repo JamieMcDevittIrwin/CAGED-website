@@ -46,3 +46,6 @@ vignettes/*.pdf
 
 # .Rproj file
 *.Rproj
+
+# Folder(s) to ignore
+docs/
