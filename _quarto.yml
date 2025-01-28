@@ -1,20 +1,20 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - "*.qmd"
 
 website:
-  title: "caged-website"
+  title: "CAGED Website"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
-
-
-
