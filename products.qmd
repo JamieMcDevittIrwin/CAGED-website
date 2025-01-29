@@ -1,0 +1,21 @@
+---
+title: "Products"
+---
+
+Our group was funded in late 2024 so we are still in the early days of tackling these questions. That said, some key products are identified below.
+
+:::panel-tabset
+### Code
+
+- Primary data harmonization workflow: [lter/lterwg-caged](https://github.com/lter/lterwg-caged/tree/main)
+- Source code for this website: [JamieMcDevittIrwin / CAGED-website](https://github.com/JamieMcDevittIrwin/CAGED-website)
+
+### Papers
+
+Check back later!
+
+### Presentations
+
+Check back later!
+
+:::
