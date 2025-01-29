@@ -13,8 +13,6 @@ website:
     left:
       - text: "Home"
         href: index.qmd
-      - text: "About"
-        href: about.qmd
     right:
       - text: "People"
         href: people.qmd
