@@ -6,8 +6,8 @@ _Icon legend: {{< fa brands github >}} = GitHub | {{< fa globe >}} = website | {
 
 ## Principal Investigators
 
-- Jamie McDevitt-Irwin | [{{< fa brands github >}}](https://github.com/JamieMcDevittIrwin) {{< fa globe >}} {{< fa brands orcid >}}
-- Kelly Speare | [{{< fa brands github >}}](https://github.com/kellyspeare) {{< fa globe >}} {{< fa brands orcid >}}
+- Jamie McDevitt-Irwin | [{{< fa brands github >}}](https://github.com/JamieMcDevittIrwin) [{{< fa globe >}}](https://jamiemcdevittirwin.github.io/) [{{< fa brands orcid >}}](https://orcid.org/0000-0003-1620-6946)
+- Kelly Speare | [{{< fa brands github >}}](https://github.com/kellyspeare) [{{< fa globe >}}](http://www.kellyspeare.com/) [{{< fa brands orcid >}}](https://orcid.org/0000-0002-0016-3606)
 - Sally Koerner | [{{< fa brands github >}}](https://github.com/SallyKoerner) [{{< fa globe >}}](https://koernerlab.weebly.com/) [{{< fa brands orcid >}}](https://orcid.org/0000-0001-6403-7513)
 
 ## Members
