@@ -1,8 +1,11 @@
 ---
-title: "CAGED Synthesis Working Group"
+title: "Consumer Absence Generates Ecological Dissimilarity (CAGED)"
 ---
 
-This is a Quarto website.
+**A Cross-Ecosystem Synthesis Exploring the Consequences of Consumer Loss on Community Variability**
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Consumers are disappearing from ecosystems across the globe, the effects of which influence how the remaining community looks and functions. Recent case studies suggest that consumer loss leads to increased community variability across space. However, it remains unknown if this is a general pattern shared across ecosystems, regions, and taxa. This working group will capitalize on existing data from consumer-exclusion experiments that are common in aquatic and terrestrial ecosystems to evaluate how consumer loss influences community variability across space (i.e., dissimilarity in community composition). The project will combine seventy-five exclusion experiment datasets from studies at LTERs, the Grazing Exclosure Database, and other ecosystems (e.g., aquatic, forests). Understanding how consumer loss affects community variability is integral to conservation and management and predicting how an ecosystem will provide services and respond to global change. 
 
+## Related Links
+
+- LTER Network Office [working group article](https://lternet.edu/working-groups/caged/)
