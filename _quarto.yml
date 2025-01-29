@@ -16,6 +16,8 @@ website:
       - text: "About"
         href: about.qmd
     right:
+      - text: "People"
+        href: people.qmd
       - icon: github
         href: https://github.com/lter/lterwg-caged
 
