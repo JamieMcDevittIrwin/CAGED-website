@@ -1,5 +1,5 @@
 ---
-title: "caged-website"
+title: "CAGED Synthesis Working Group"
 ---
 
 This is a Quarto website.
