@@ -1,16 +1,23 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "products.html",
+    "href": "products.html",
+    "title": "Products",
     "section": "",
-    "text": "About this site"
+    "text": "Our group was funded in late 2024 so we are still in the early days of tackling these questions. That said, some key products are identified below.\n\nCodePapersPresentations\n\n\n\nPrimary data harmonization workflow: lter/lterwg-caged\nSource code for this website: JamieMcDevittIrwin / CAGED-website\n\n\n\nCheck back later!\n\n\nCheck back later!"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "CAGED Synthesis Working Group",
+    "title": "Consumer Absence Generates Ecological Dissimilarity (CAGED)",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "A Cross-Ecosystem Synthesis Exploring the Consequences of Consumer Loss on Community Variability\nConsumers are disappearing from ecosystems across the globe, the effects of which influence how the remaining community looks and functions. Recent case studies suggest that consumer loss leads to increased community variability across space. However, it remains unknown if this is a general pattern shared across ecosystems, regions, and taxa. This working group will capitalize on existing data from consumer-exclusion experiments that are common in aquatic and terrestrial ecosystems to evaluate how consumer loss influences community variability across space (i.e., dissimilarity in community composition). The project will combine seventy-five exclusion experiment datasets from studies at LTERs, the Grazing Exclosure Database, and other ecosystems (e.g., aquatic, forests). Understanding how consumer loss affects community variability is integral to conservation and management and predicting how an ecosystem will provide services and respond to global change."
+  },
+  {
+    "objectID": "index.html#related-links",
+    "href": "index.html#related-links",
+    "title": "Consumer Absence Generates Ecological Dissimilarity (CAGED)",
+    "section": "Related Links",
+    "text": "Related Links\n\nLTER Network Office working group article"
   }
 ]
