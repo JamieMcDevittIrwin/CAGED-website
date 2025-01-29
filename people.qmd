@@ -8,7 +8,7 @@ _Icon legend: {{< fa brands github >}} = GitHub | {{< fa globe >}} = website | {
 
 - Jamie McDevitt-Irwin | [{{< fa brands github >}}](https://github.com/JamieMcDevittIrwin) {{< fa globe >}} {{< fa brands orcid >}}
 - Kelly Speare | [{{< fa brands github >}}](https://github.com/kellyspeare) {{< fa globe >}} {{< fa brands orcid >}}
-- Sally Koerner | [{{< fa brands github >}}](https://github.com/SallyKoerner) {{< fa globe >}} {{< fa brands orcid >}}
+- Sally Koerner | [{{< fa brands github >}}](https://github.com/SallyKoerner) [{{< fa globe >}}](https://koernerlab.weebly.com/) [{{< fa brands orcid >}}](https://orcid.org/0000-0001-6403-7513)
 
 ## Members
 
