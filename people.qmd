@@ -19,7 +19,7 @@ _Icon legend: {{< fa brands github >}} = GitHub | {{< fa globe >}} = website | {
 - Tadashi Fukami | {{< fa brands github >}} {{< fa globe >}} {{< fa brands orcid >}}
 - Luisa Genes | {{< fa brands github >}} {{< fa globe >}} {{< fa brands orcid >}}
 - Marc Hensel | {{< fa brands github >}} {{< fa globe >}} {{< fa brands orcid >}}
-- Hillary Krumbholz | [{{< fa brands github >}}](https://github.com/hillarykrumbholz) {{< fa globe >}} {{< fa brands orcid >}}
+- Hillary Krumbholz | [{{< fa brands github >}}](https://github.com/hillarykrumbholz) {{< fa globe >}} [{{< fa brands orcid >}}](https://orcid.org/0000-0001-9808-1758)
 - Nico Matallana | {{< fa brands github >}} {{< fa globe >}} {{< fa brands orcid >}}
 - Jennie McLaren | {{< fa brands github >}} {{< fa globe >}} {{< fa brands orcid >}}
 - Lauren Porensky | {{< fa brands github >}} {{< fa globe >}} {{< fa brands orcid >}}
