@@ -2,3 +2,38 @@
 title: "Who We Are"
 ---
 
+## Principal Investigators
+
+- Jamie McDevitt-Irwin | [{{< fa brands github >}}](https://github.com/JamieMcDevittIrwin)
+- Kelly Speare | [{{< fa brands github >}}](https://github.com/kellyspeare)
+- Sally Koerner | [{{< fa brands github >}}](https://github.com/SallyKoerner)
+
+## Members
+
+- Deron Burkepile
+- Max Castorani
+- Tyler Coverdale
+- Tadashi Fukami
+- Luisa Genes
+- Marc Hensel
+- Hillary Krumbholz | [{{< fa brands github >}}](https://github.com/hillarykrumbholz)
+- Nico Matallana
+- Jennie McLaren
+- Lauren Porensky
+- Ryan Rogers
+- Alex Royo
+
+## Represented LTER Sites
+
+- [Andrews Forest](https://andrewsforest.oregonstate.edu/) LTER (**AND**)
+- [Arctic](https://arc-lter.ecosystems.mbl.edu/) LTER (**ARC**)
+- [Bonanza Creek](https://www.lter.uaf.edu/) LTER (**BNZ**)
+- [Cedar Creek](https://cedarcreek.umn.edu/) LTER (**CDR**)
+- [Georgia Coastal Ecosystems](https://gce-lter.marsci.uga.edu/) LTER (**GCE**)
+- [Harvard Forest](https://harvardforest.fas.harvard.edu/) LTER (**HVR**)
+- [Jornada Basin](https://lter.jornada.nmsu.edu/) LTER (**JRN**)
+- [Konza Prairie](https://lter.konza.ksu.edu/) LTER (**KNZ**)
+- [Luquillo](https://luquillo.lter.network/) LTER (**LUQ**)
+- [Moorea Coral Reef](https://mcr.lternet.edu/) LTER (**MCR**)
+- [Sevilleta](https://sevlter.unm.edu/) LTER (**SEV**)
+
