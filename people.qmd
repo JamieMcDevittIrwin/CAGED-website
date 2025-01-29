@@ -2,26 +2,29 @@
 title: "Who We Are"
 ---
 
+_Icon legend: {{< fa brands github >}} = GitHub | {{< fa globe >}} = website | {{< fa brands orcid >}} = ORCID_
+
 ## Principal Investigators
 
-- Jamie McDevitt-Irwin | [{{< fa brands github >}}](https://github.com/JamieMcDevittIrwin)
-- Kelly Speare | [{{< fa brands github >}}](https://github.com/kellyspeare)
-- Sally Koerner | [{{< fa brands github >}}](https://github.com/SallyKoerner)
+- Jamie McDevitt-Irwin | [{{< fa brands github >}}](https://github.com/JamieMcDevittIrwin) {{< fa globe >}} {{< fa brands orcid >}}
+- Kelly Speare | [{{< fa brands github >}}](https://github.com/kellyspeare) {{< fa globe >}} {{< fa brands orcid >}}
+- Sally Koerner | [{{< fa brands github >}}](https://github.com/SallyKoerner) {{< fa globe >}} {{< fa brands orcid >}}
 
 ## Members
 
-- Deron Burkepile
-- Max Castorani
-- Tyler Coverdale
-- Tadashi Fukami
-- Luisa Genes
-- Marc Hensel
-- Hillary Krumbholz | [{{< fa brands github >}}](https://github.com/hillarykrumbholz)
-- Nico Matallana
-- Jennie McLaren
-- Lauren Porensky
-- Ryan Rogers
-- Alex Royo
+- Deron Burkepile | {{< fa brands github >}} {{< fa globe >}} {{< fa brands orcid >}}
+- Max Castorani | {{< fa brands github >}} {{< fa globe >}} {{< fa brands orcid >}}
+- Tyler Coverdale | {{< fa brands github >}} {{< fa globe >}} {{< fa brands orcid >}}
+- Raine Detmer | {{< fa brands github >}} {{< fa globe >}} {{< fa brands orcid >}}
+- Tadashi Fukami | {{< fa brands github >}} {{< fa globe >}} {{< fa brands orcid >}}
+- Luisa Genes | {{< fa brands github >}} {{< fa globe >}} {{< fa brands orcid >}}
+- Marc Hensel | {{< fa brands github >}} {{< fa globe >}} {{< fa brands orcid >}}
+- Hillary Krumbholz | [{{< fa brands github >}}](https://github.com/hillarykrumbholz) {{< fa globe >}} {{< fa brands orcid >}}
+- Nico Matallana | {{< fa brands github >}} {{< fa globe >}} {{< fa brands orcid >}}
+- Jennie McLaren | {{< fa brands github >}} {{< fa globe >}} {{< fa brands orcid >}}
+- Lauren Porensky | {{< fa brands github >}} {{< fa globe >}} {{< fa brands orcid >}}
+- Ryan Rogers | {{< fa brands github >}} {{< fa globe >}} {{< fa brands orcid >}}
+- Alex Royo | {{< fa brands github >}} {{< fa globe >}} {{< fa brands orcid >}}
 
 ## Represented LTER Sites
 
