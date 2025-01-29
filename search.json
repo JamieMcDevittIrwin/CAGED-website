@@ -4,7 +4,7 @@
     "href": "products.html",
     "title": "Products",
     "section": "",
-    "text": "Our group was funded in late 2024 so we are still in the early days of tackling these questions. That said, some key products are identified below.\n\nCodePapersPresentations\n\n\n\nPrimary data harmonization workflow: lter/lterwg-caged\nSource code for this website: JamieMcDevittIrwin / CAGED-website\n\n\n\nCheck back later!\n\n\nCheck back later!"
+    "text": "Our group was funded in late 2024 so we are still in the early days of tackling these questions. That said, some key products are identified below.\n\nCodePapersPresentations\n\n\n\nPrimary data harmonization workflow:  lter/lterwg-caged\nSource code for this website:  JamieMcDevittIrwin / CAGED-website\n\n\n\nCheck back later!\n\n\nCheck back later!"
   },
   {
     "objectID": "index.html",
@@ -19,5 +19,33 @@
     "title": "Consumer Absence Generates Ecological Dissimilarity (CAGED)",
     "section": "Related Links",
     "text": "Related Links\n\nLTER Network Office working group article"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "Who We Are",
+    "section": "",
+    "text": "Jamie McDevitt-Irwin | \nKelly Speare | \nSally Koerner |"
+  },
+  {
+    "objectID": "people.html#principal-investigators",
+    "href": "people.html#principal-investigators",
+    "title": "Who We Are",
+    "section": "",
+    "text": "Jamie McDevitt-Irwin | \nKelly Speare | \nSally Koerner |"
+  },
+  {
+    "objectID": "people.html#members",
+    "href": "people.html#members",
+    "title": "Who We Are",
+    "section": "Members",
+    "text": "Members\n\nDeron Burkepile\nMax Castorani\nTyler Coverdale\nTadashi Fukami\nLuisa Genes\nMarc Hensel\nHillary Krumbholz | \nNico Matallana\nJennie McLaren\nLauren Porensky\nRyan Rogers\nAlex Royo"
+  },
+  {
+    "objectID": "people.html#represented-lter-sites",
+    "href": "people.html#represented-lter-sites",
+    "title": "Who We Are",
+    "section": "Represented LTER Sites",
+    "text": "Represented LTER Sites\n\nAndrews Forest LTER (AND)\nArctic LTER (ARC)\nBonanza Creek LTER (BNZ)\nCedar Creek LTER (CDR)\nGeorgia Coastal Ecosystems LTER (GCE)\nHarvard Forest LTER (HVR)\nJornada Basin LTER (JRN)\nKonza Prairie LTER (KNZ)\nLuquillo LTER (LUQ)\nMoorea Coral Reef LTER (MCR)\nSevilleta LTER (SEV)"
   }
 ]
