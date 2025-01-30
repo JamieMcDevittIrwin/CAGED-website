@@ -1,14 +1,17 @@
 ---
 title: "Products"
 ---
+<img src="images/CAGED_Bison_bison_notext.png" alt="caged logo" width="40%" align= "right"/>
 
 Our group was funded in late 2024 so we are still in the early days of tackling these questions. That said, some key products are identified below.
 
 :::panel-tabset
 ### Code
 
-- Primary data harmonization workflow: {{< fa brands github >}} [lter/lterwg-caged](https://github.com/lter/lterwg-caged/tree/main)
-- Source code for this website: {{< fa brands github >}} [JamieMcDevittIrwin / CAGED-website](https://github.com/JamieMcDevittIrwin/CAGED-website)
+- Primary data harmonization workflow:
+    - {{< fa brands github >}} [lter / lterwg-caged](https://github.com/lter/lterwg-caged/tree/main)
+- Source code for this website: 
+    - {{< fa brands github >}} [JamieMcDevittIrwin / CAGED-website](https://github.com/JamieMcDevittIrwin/CAGED-website)
 
 ### Papers
 
@@ -16,6 +19,10 @@ Check back later!
 
 ### Presentations
 
-Check back later!
+Check back later!  
+
+### Press 
+
+Initial Funding Announcement [{{< fa sack-dollar >}}](https://lternet.edu/working-groups/caged/)
 
 :::

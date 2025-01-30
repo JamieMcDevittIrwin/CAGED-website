@@ -1,8 +1,10 @@
 ---
 title: "Who We Are"
 ---
+<img src="images/CAGED_Naso_lituratus_notext.png" alt="caged logo" width="50%" align= "right"/>
 
 _Icon legend: {{< fa brands github >}} = GitHub | {{< fa globe >}} = website | {{< fa brands orcid >}} = ORCID_
+
 
 ## Principal Investigators
 

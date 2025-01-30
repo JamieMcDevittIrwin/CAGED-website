@@ -8,11 +8,10 @@ execute:
   freeze: auto
 
 website:
-  title: "CAGED Website"
+  title: "CAGED"
+  favicon: images/CAGED_Bison_bison_notext.png
   navbar:
     left:
-      - text: "Home"
-        href: index.qmd
       - text: "Products"
         href: products.qmd
     right:
@@ -27,6 +26,6 @@ format:
        light: theme_light.scss
        dark: theme_dark.scss
     mainfont: Open Sans
-    toc: true
+    toc: false
     link-external-newwindow: true
     link-external-icon: false
