@@ -12,7 +12,7 @@ _Icon legend: {{< fa brands github >}} = GitHub | {{< fa globe >}} = website | {
 
 ## Members
 
-- Deron Burkepile | {{< fa brands github >}} {{< fa globe >}} {{< fa brands orcid >}}
+- Deron Burkepile | [{{< fa brands github >}}](https://github.com/dburkepile) [{{< fa globe >}}](https://labs.eemb.ucsb.edu/burkepile/deron/) [{{< fa brands orcid >}}] (https://orcid.org/my-orcid?orcid=0000-0002-0427-0484)
 - Max Castorani | {{< fa brands github >}} {{< fa globe >}} {{< fa brands orcid >}}
 - Tyler Coverdale | {{< fa brands github >}} {{< fa globe >}} {{< fa brands orcid >}}
 - Raine Detmer | {{< fa brands github >}} {{< fa globe >}} {{< fa brands orcid >}}
