@@ -9,6 +9,11 @@ $lter-blue-2: #4AB2CB;
 $lter-tan: #B89E92;
 $lter-yellow: #FFDF1D;
 $lter-orange: #DA6641;
+$turq: #2a9d8f;
+$blue: #005E6B;
+$yellow: #e9c46a;
+$orange: #f4a261;
+$red: #e76f51;
 
 /* generally useful other colors */
 $cream: #F4F3EE;
@@ -25,16 +30,16 @@ $font-size: 25px;
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Open+Sans:wght@300&display=swap');
 
 // Base document colors
-$navbar-bg: $lter-green-3; // navbar
-$navbar-fg: $cream; // navbar foreground elements
+$navbar-bg: $blue; // navbar
+$navbar-fg: $turq; // navbar foreground elements
 $sidebar-bg: $lter-green-3; // sidebar
 $sidebar-fg: $cream; // sidebar foreground elements
-$navbar-hl: $lter-green-1; // highlight color when on a page
+$navbar-hl: $cream; // highlight color when on a page
 $body-bg: $black; // page background
 $body-color: $cream; // page text
-$footer-bg: $lter-blue-2; // footer
-$footer-fg: $cream; // footer text
-$link-color: $lter-tan; // hyperlinks
+$footer-bg: $blue; // footer
+$footer-fg: $turq; // footer text
+$link-color: $yellow; // hyperlinks
 
 // Code text
 $code-bg: $gray-3; // inline code background color
@@ -48,10 +53,10 @@ pre code:not(.sourceCode) { background-color: $gray-0; }
 
 // Active tabset panel (tab then tab content)
 .nav-tabs .nav-link.active { 
-  background-color: $gray-3; 
-  color: $black;
+  background-color: $blue; 
+  color: $cream;
 }
-.tab-content { background-color: $gray-3; }
+.tab-content { background-color: $blue; }
 
 // Navbar dropdown elements
 .dropdown-menu{
