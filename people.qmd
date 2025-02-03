@@ -17,9 +17,9 @@ _Icon legend: {{< fa brands github >}} = GitHub | {{< fa globe >}} = website | {
 - Deron Burkepile | [{{< fa brands github >}}](https://github.com/dburkepile) [{{< fa globe >}}](https://labs.eemb.ucsb.edu/burkepile/deron/) [{{< fa brands orcid >}}](https://orcid.org/0000-0002-0427-0484)
 - Max Castorani | {{< fa brands github >}} {{< fa globe >}} {{< fa brands orcid >}}
 - Tyler Coverdale | [{{< fa brands github >}}](https://github.com/TCCoverdale) [{{< fa globe >}}](https://coverdalelab.weebly.com/) [{{< fa brands orcid >}}](https://orcid.org/0000-0003-0910-9187)
-- Raine Detmer | {{< fa brands github >}} {{< fa globe >}} {{< fa brands orcid >}}
+- Raine Detmer | [{{< fa brands github >}}](https://github.com/raine-detmer) {{< fa globe >}} [{{< fa brands orcid >}}](https://orcid.org/0000-0001-5416-0278)
 - Tadashi Fukami | {{< fa brands github >}} {{< fa globe >}} {{< fa brands orcid >}}
-- Luisa Genes | {{< fa brands github >}} {{< fa globe >}} {{< fa brands orcid >}}
+- Luisa Genes | [{{< fa brands github >}}](https://github.com/luisagenes) [{{< fa globe >}}](http://luisagenes.com/) [{{< fa brands orcid >}}](https://orcid.org/0000-0001-7556-4562)
 - Marc Hensel | {{< fa brands github >}} {{< fa globe >}} {{< fa brands orcid >}}
 - Hillary Krumbholz | [{{< fa brands github >}}](https://github.com/hillarykrumbholz) {{< fa globe >}} [{{< fa brands orcid >}}](https://orcid.org/0000-0001-9808-1758)
 - Nico Matallana | {{< fa brands github >}} {{< fa globe >}} {{< fa brands orcid >}}
