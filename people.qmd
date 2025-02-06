@@ -23,7 +23,7 @@ _Icon legend: {{< fa brands github >}} = GitHub | {{< fa globe >}} = website | {
 - Marc Hensel | [{{< fa brands github >}}](https://github.com/mhensel) {{< fa globe >}} [{{< fa brands orcid >}}](https://orcid.org/0000-0002-9292-9858)
 - Hillary Krumbholz | [{{< fa brands github >}}](https://github.com/hillarykrumbholz) {{< fa globe >}} [{{< fa brands orcid >}}](https://orcid.org/0000-0001-9808-1758)
 - Nico Matallana | {{< fa brands github >}} {{< fa globe >}} {{< fa brands orcid >}}
-- Jennie McLaren | {{< fa brands github >}} {{< fa globe >}} {{< fa brands orcid >}}
+- Jennie McLaren | [{{< fa brands github >}}](https://github.com/JennieMcLaren) [{{< fa globe >}}](http://www.jenniemclaren.com/) [{{< fa brands orcid >}}](https://orcid.org/0000-0003-2004-4783)
 - Lauren Porensky | [{{< fa brands github >}}](https://github.com/lporensky) [{{< fa globe >}}](https://www.ars.usda.gov/plains-area/fort-collins-co/center-for-agricultural-resources-research/rangeland-resources-systems-research/people/lauren-porensky/) [{{< fa brands orcid >}}](https://orcid.org/0000-0001-6883-2442)
 - Ryan Rogers | [{{< fa brands github >}}](https://github.com/ryancr29) [{{< fa globe >}}](https://www.linkedin.com/in/ryancrogers22/) [{{< fa brands orcid >}}](https://orcid.org/0000-0003-1774-9213)
 - Alex Royo | {{< fa brands github >}} {{< fa globe >}} {{< fa brands orcid >}}
