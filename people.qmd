@@ -18,7 +18,7 @@ _Icon legend: {{< fa brands github >}} = GitHub | {{< fa globe >}} = website | {
 - Max Castorani | [{{< fa brands github >}}](https://github.com/maxcastorani) [{{< fa globe >}}](https://castorani.evsc.virginia.edu/) [{{< fa brands orcid >}}](https://orcid.org/0000-0002-7372-9359)
 - Tyler Coverdale | [{{< fa brands github >}}](https://github.com/TCCoverdale) [{{< fa globe >}}](https://coverdalelab.weebly.com/) [{{< fa brands orcid >}}](https://orcid.org/0000-0003-0910-9187)
 - Raine Detmer | [{{< fa brands github >}}](https://github.com/raine-detmer) {{< fa globe >}} [{{< fa brands orcid >}}](https://orcid.org/0000-0001-5416-0278)
-- Tadashi Fukami | {{< fa brands github >}} {{< fa globe >}} {{< fa brands orcid >}}
+- Tadashi Fukami | [{{< fa brands github >}}](https://github.com/fukamit) [{{< fa globe >}}](https://web.stanford.edu/~fukamit/) [{{< fa brands orcid >}}](https://orcid.org/0000-0001-5654-4785)
 - Luisa Genes | [{{< fa brands github >}}](https://github.com/luisagenes) [{{< fa globe >}}](http://luisagenes.com/) [{{< fa brands orcid >}}](https://orcid.org/0000-0001-7556-4562)
 - Marc Hensel | [{{< fa brands github >}}](https://github.com/mhensel) {{< fa globe >}} [{{< fa brands orcid >}}](https://orcid.org/0000-0002-9292-9858)
 - Hillary Krumbholz | [{{< fa brands github >}}](https://github.com/hillarykrumbholz) {{< fa globe >}} [{{< fa brands orcid >}}](https://orcid.org/0000-0001-9808-1758)
