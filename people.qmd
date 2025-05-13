@@ -30,6 +30,9 @@ _Icon legend: {{< fa brands github >}} = GitHub | {{< fa globe >}} = website | {
 
 ## Represented LTER Sites
 
+::::{.columns}
+:::{.column width=50%}
+
 - [Andrews Forest](https://andrewsforest.oregonstate.edu/) (**AND**)
 - [Arctic](https://arc-lter.ecosystems.mbl.edu/) (**ARC**)
 - [Bonanza Creek](https://www.lter.uaf.edu/) (**BNZ**)
@@ -37,6 +40,10 @@ _Icon legend: {{< fa brands github >}} = GitHub | {{< fa globe >}} = website | {
 - [Georgia Coastal Ecosystems](https://gce-lter.marsci.uga.edu/) (**GCE**)
 - [Harvard Forest](https://harvardforest.fas.harvard.edu/) (**HVR**)
 - [Jornada Basin](https://lter.jornada.nmsu.edu/) (**JRN**)
+
+:::
+:::{.column width=50%}
+
 - [Konza Prairie](https://lter.konza.ksu.edu/) (**KNZ**)
 - [Luquillo](https://luquillo.lter.network/) (**LUQ**)
 - [Moorea Coral Reef](https://mcr.lternet.edu/) (**MCR**)
@@ -44,3 +51,5 @@ _Icon legend: {{< fa brands github >}} = GitHub | {{< fa globe >}} = website | {
 - [Sevilleta](https://sevlter.unm.edu/) (**SEV**)
 - [Virginia Coast Reserve](https://www.vcrlter.virginia.edu/home2/) (**VCR**)
 
+:::
+::::
